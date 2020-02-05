@@ -304,15 +304,17 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-.mainheading {
+.mainpage {
     background: url(../images/frontpage.jpg);
-	height: 350px;
+	height: 380px;
 	margin-bottom: 15px;
+	background-size: cover;
 }
 
 .mainheading h1.sitetitle {
     text-align: center;
     font-family: Righteous;
+	fond-size: 1.5em;
     color: red;
 	text-transform: uppercase;
 }
