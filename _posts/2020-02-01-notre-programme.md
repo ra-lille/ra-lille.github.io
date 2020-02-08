@@ -3,7 +3,7 @@ layout: post
 title:  "Notre Programme"
 author: 
 categories: [ ]
-image: assets/images/12.jpg
+image: assets/images/programme.jpg
 featured: true
 hidden: true
 ---

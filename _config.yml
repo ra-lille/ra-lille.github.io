@@ -1,9 +1,11 @@
 # Site
 name: "Resistance Anticapitaliste"
-title: "Resistance Anticapitaliste"
-description: "Pour une Lille anticapitaliste, democratique et solidaire" 
+title: "Resistance Anticapitaliste!"
+description: "Pour une Lille Anticapitaliste, Democratique et Solidaire" 
 logo: 'assets/images/logo.png'
-favicon: assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+banner: '/assets/images/banner.jpg'
+bannerSmall: '/assets/images/bannerSmall.jpg'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
