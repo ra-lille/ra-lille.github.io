@@ -4,8 +4,8 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/ 
 */
 @media screen and (min-width:1500px) {
-    html { font-size:18px;  }    
-	.container {max-width:80%;}
+    html { font-size: 18px;  }    
+	.container { max-width:80%; }
 }
 
 .mainheading {
@@ -13,7 +13,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b
+    /* color: #00ab6b; */
+	color: rgb(112, 159, 53);
     transition: all 0.2s;
 }
 
@@ -65,7 +66,8 @@ section.recent-posts {
 }
 
 .section-title h2 {
-    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    /* border-bottom: 1px solid rgba(0, 0, 0, .125); */
+	border-bottom: 1px solid rgba(112, 159, 53, .125);
     margin-bottom: 25px;
     font-weight: 700;
     font-size: 1.4rem;
@@ -73,7 +75,9 @@ section.recent-posts {
 }
 
 .section-title span {
-    border-bottom: 1px solid rgba(0, 0, 0, .44);
+    /* border-bottom: 1px solid rgba(0, 0, 0, .44);*/
+	color: rgb(205, 7, 30);
+	border-bottom: 1px solid rgba(205, 7, 30, .125);
     display: inline-block;
     padding-bottom: 20px;
     margin-bottom: -1px;
@@ -333,8 +337,9 @@ span.post-read-more a:hover {
 .mainheading .lead {
     text-align: left;
 	font-size: 1.5em;
-   	color: rgb(168, 189, 46);
-	font-weight: bold;
+   	color: rgb(112, 159, 53);
+	/*font-weight: bold;*/
+	/*text-shadow: -1px 0 rgb(129, 169, 69), 0 1px rgb(129, 169, 69), 1px 0 rgb(129, 169, 69), 0 -1px rgb(129, 169, 69);*/
 }
 
 .mainheading h1.posttitle {

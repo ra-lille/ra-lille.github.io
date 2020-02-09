@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resistance Anticapitaliste
-permalink: /agir
+permalink: /about
 comments: false
 ---
 
