@@ -10,11 +10,6 @@ post_class: post-template
 <div class="container">
     <div class="row">
 
-        <!-- Post Share -->
-        <div class="col-md-2 pl-0">
-            {% include share.html %}
-        </div>
-
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
 
@@ -40,7 +35,6 @@ post_class: post-template
 
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
-
             </div>
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
@@ -84,6 +78,21 @@ post_class: post-template
             </div>
             {% endif %}
 
+			<!-- Post Link -->
+			{% if page.link %}
+			<p>
+			<span class="post-link">
+				<a href="{% if page.link contains "://" %}{{page.link}}{% else %}{{site.baseurl}}/{{page.link}}{% endif %}">
+					{% if page.linkTitle %}
+						Download {{page.linkTitle}}
+					{% else %}
+						Download {{page.title}}
+					{% endif %}
+				</a>
+			</span>
+			</p>
+			{% endif %}
+
             <!-- Post Date -->
             <p>
             <small>
@@ -91,9 +100,9 @@ post_class: post-template
                 {% if page.last_modified_at %}
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
-                </small>
-            </p>
-
+            </small>
+           </p>
+ 
             <!-- Post Categories -->
             <div class="after-post-cats">
                 <ul class="tags mb-4">
@@ -135,47 +144,14 @@ post_class: post-template
         </div>
         <!-- End Post -->
 
+      <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            {% include share.html %}
+        </div>
+
+
     </div>
 </div>
 <!-- End Article
 ================================================== -->
 
-<!-- Begin Comments
-================================================== -->
-{% if page.comments != false %}
-    <div class="container">
-        <div id="comments" class="row justify-content-center mb-5">
-            <div class="col-md-8">
-                {% include disqus.html %}
-            </div>
-        </div>
-    </div>
-{% endif %}
-<!--End Comments
-================================================== -->
-
-<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-{% if page.rating %}
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "Thing",
-    "name": "{{ page.title }}"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "{{ author.display_name }}"
-  },
-  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
-    "bestRating": "5"
-  }
-}
-</script>
-{% endif %}

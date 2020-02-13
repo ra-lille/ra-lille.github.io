@@ -77,7 +77,7 @@ section.recent-posts {
 .section-title span {
     /* border-bottom: 1px solid rgba(0, 0, 0, .44);*/
 	color: rgb(205, 7, 30);
-	border-bottom: 1px solid rgba(205, 7, 30, .125);
+	border-bottom: 1px solid rgba(112, 159, 53, .125);
     display: inline-block;
     padding-bottom: 20px;
     margin-bottom: -1px;
@@ -122,7 +122,7 @@ section.recent-posts {
 }
 
 .listfeaturedtag .wrapthumbnail {
-    height: 290px;
+    height: 305px;
     flex: 0 0 auto;
     height: 100%;
 }
@@ -157,6 +157,12 @@ section.recent-posts {
     font-weight: 700;
     line-height: 1.25;
 }
+
+.listfeaturedtag h2.card-title .text-red,
+.listrecent h2.card-title .text-red {
+	color: rgb(205, 7, 30);
+} 
+
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
@@ -253,6 +259,10 @@ span.post-read-more a {
     color: rgba(0, 0, 0, .44);
 }
 
+span.post-link {
+	text-align: right;
+}
+
 span.post-name a,
 span.post-read-more a:hover {
     color: rgba(0, 0, 0, .8);
@@ -324,19 +334,27 @@ span.post-read-more a:hover {
 	*/
 }
 
+.mainheading .sitelogo {
+	text-align: center;
+}
+
+.mainheading .sitelogo img {
+	width: 520px;
+}
+
 .mainheading h1.sitetitle {
-    text-align: left;
+    text-align: center;
     font-family: Righteous;
-	font-size: 2.8em;
+	font-size: 2.3em;
     /*color: rgb(225, 30, 45);*/
 	color: rgb(205, 7, 30);
-	text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
+	/*text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;*/
 	text-transform: uppercase;
 }
 
 .mainheading .lead {
-    text-align: left;
-	font-size: 1.5em;
+    text-align: center;
+	font-size: 1.2em;
    	color: rgb(112, 159, 53);
 	/*font-weight: bold;*/
 	/*text-shadow: -1px 0 rgb(129, 169, 69), 0 1px rgb(129, 169, 69), 1px 0 rgb(129, 169, 69), 0 -1px rgb(129, 169, 69);*/
@@ -344,6 +362,7 @@ span.post-read-more a:hover {
 
 .mainheading h1.posttitle {
     font-weight: 700;
+	font-size: 1.8rem;
     margin-bottom: 1rem;
 }
 
@@ -365,7 +384,7 @@ span.post-read-more a:hover {
 
 .article-post {
     font-family: Merriweather;
-    font-size: 1.1rem;
+    font-size: 1.0rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
 }
@@ -652,7 +671,7 @@ ul.tags li a:hover {
 
 .authorpage h1 {
     font-weight: 700;
-    font-size: 30px;
+    /* font-size: 30px; */
 }
 
 .post-top-meta.authorpage .author-thumb {
@@ -734,9 +753,30 @@ h6 {
 .article-post h4,
 .article-post h5,
 .article-post h6 {
-    font-weight: 700;
-    margin-bottom: 1.5rem;
+	font-weight: 700;
+	margin-bottom: 1.5rem;
 }
+
+.article-post h1 {
+	font-size: 1.2em;
+}
+
+.article-post h2 {
+	font-size: 1.1em;
+}
+
+.article-post h3 {
+	font-size: 1.0em;
+}
+
+h1 {
+	color: rgb(205, 7, 30)
+}
+
+h2 {
+	color: rgb(129, 169, 69)
+}
+
 
 .article-post img.shadow {
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);

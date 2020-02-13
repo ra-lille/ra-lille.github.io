@@ -80,7 +80,7 @@ ga('send', 'pageview');
                 </li>
 
                 <li class="nav-item">
-                	<a class="nav-link" href="{{site.baseurl}}/about">Nous</a>
+                	<a class="nav-link" href="{{site.baseurl}}/nous">Nous</a>
                 </li>
 
                 <li class="nav-item">
@@ -115,13 +115,15 @@ ga('send', 'pageview');
 ================================================== -->
 <div class="mainheading mainpage">
 	<div class="row">
-	<div class="col-sm-8">
-    	<p class="lead">{{ site.description }}</p>
+	<div class="col-sm-12">
+		<div class="sitelogo">
+			<img src="{{site.baseurl}}/assets/images/tipitostransp.png">
+		</div>
     	<h1 class="sitetitle">{{ site.name }}</h1>
+    	<p class="lead">{{ site.description }}</p>
 	</div>
-	<div class="col-sm-4">
-		<img src="{{site.baseurl}}/assets/images/tipitostransp.png">
-	</div>
+	<!--div class="col-sm-4">
+	</div-->
 	</div>
 </div>
 
@@ -130,6 +132,7 @@ ga('send', 'pageview');
 <div class="main-content">
     {{ content }}
 </div>
+
 
 {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
@@ -182,8 +185,9 @@ ga('send', 'pageview');
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+            <div class="col-md-6 col-sm-6 text-center text-lg-right"> 
+				Réalisé par des militants du NPA et du RP, ce site est basé sur 
+                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a>
             </div>
         </div>
     </div>
@@ -208,9 +212,11 @@ ga('send', 'pageview');
 
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
 
+<!--
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
+-->
 
 </body>
 </html>

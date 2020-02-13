@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Notre Programme"
+title:  "Programme de Résistence Anticapitaliste"
 author: 
 categories: [ ]
 image: assets/images/programme.jpg
 featured: true
 hidden: true
+linkTitle: "Programme"
+link: assets/files/ProgrammeRA.pdf
 ---
-
-# Résistance Anticapitaliste  
-Nouveau Parti Anticapitaliste et Résistance Populaire
 
 ## Un espace de lutte et d’élaboration politique 
 Née dans le cadre des mobilisations actuelles contre les reformes néolibérales du gouvernement Macron, notre liste souhaite porter une voix anticapitaliste dans la campagne municipale de la ville de Lille. Notre collaboration démontre que différents acteurs (politiques, syndicaux, associatifs ou sans affiliation) peuvent converger dans un projet de transformation sociale qui part d’une prise de conscience critique sur l’état de détérioration progressif des conditions et des droits des travailleurs, des services publics et de la qualité de vie. La concentration des richesses au niveau national et global nous alerte sur l’amplification des inégalités de classe et sur l’état général de crise économique, sociale, démocratique et écologique. Face à cette situation, de nombreux mouvements sociaux, syndicats, travailleurs, professionnels de la santé, de l’éducation, étudiants se sont mobilisés contre le recul des droits sociaux et le démantèlement de l’État providence. Parmi ces acteurs, le mouvement des Gilets Jaunes, dont est issue Résistance Populaire, s’est engagé dans un combat de longue durée contre le gouvernement Macron et son monde. Composite et polymorphe, ce mouvement a réussi à expérimenter des nouvelles formes de lutte, d’auto-organisation et de délibération. Il a également ouvert une brèche dans la conscience de nombreuses personnes qui ont décidé de reprendre leur vie en main et s’intéresser aux affaires de la cité. Notre liste appuie et encourage ces dynamiques d’émancipation sociale et politique et les projette dans l’espace électoral. 
