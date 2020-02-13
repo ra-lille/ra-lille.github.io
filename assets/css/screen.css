@@ -165,7 +165,7 @@ section.recent-posts {
 
 .listfeaturedtag h2.card-title .green,
 .listrecent h2.card-title .green {
-	color: rgb(205, 7, 30);
+	color: rgb(129, 169, 69);
 } 
 
 
@@ -853,12 +853,12 @@ iframe {
         padding: 0;
         height: 350px;
         border-radius: 0;
-        background-image: url(../images/jumbotron.jpg);
-        background-size: cover;
     }
 
     .jumbotron.fortags .col-md-4 {
-        background: rgba(0, 0, 0, 0.75);
+   		background-color: rgba(205, 7, 30, 0.75);
+ 
+/*        background-color: rgba(0, 0, 0, 0.75);*/
         color: #fff;
     }
 
@@ -871,13 +871,11 @@ iframe {
     margin-top: 3rem;
     padding: 0;
     border-radius: 0;
-    background-image: url(../images/jumbotron.jpg);
-    background-size: cover;
 }
 
 .jumbotron.fortags a {
     padding: 5px 10px 7px;
-    background: #222;
+    background-color: rgba(205, 7, 30, .75);
     border-radius: 30px;
     color: #fff;
     font-weight: 500;

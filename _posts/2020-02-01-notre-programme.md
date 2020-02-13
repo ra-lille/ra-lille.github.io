@@ -2,7 +2,7 @@
 layout: post
 title:  "Programme de Résistence Anticapitaliste"
 author: 
-categories: [ ]
+categories: [ programme ]
 image: assets/images/programme.jpg
 featured: true
 hidden: true
