@@ -2,12 +2,12 @@
 name: "Resistance Anticapitaliste"
 title: "Resistance Anticapitaliste!"
 description: "Pour une Lille Anticapitaliste, Democratique et Solidaire" 
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+#logo: 'assets/images/logo.png'
+#favicon: 'assets/images/logo.png'
 #banner: '/assets/images/banner2.jpg'
 #bannerSmall: '/assets/images/bannerSmall2.jpg'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+#google_analytics: 'UA-46278016-1'
 #disqus: 'demowebsite'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
