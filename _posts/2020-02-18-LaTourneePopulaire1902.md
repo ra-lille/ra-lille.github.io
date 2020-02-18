@@ -2,7 +2,7 @@
 layout: post
 title:  "La Tournée Populaire - 19 février, Place Richebé"
 author: 
-categories: [ ]
+categories: [ evenement ]
 image: assets/images/2020-02-18-LaTourneePopulaire/image1.png
 featured: true
 hidden: false
