@@ -9,4 +9,6 @@ hidden: false
 cardColor: green
 ---
 
-Dimanche dernier nos avons visité le marche de Caulier...
+Dimanche dernier nos avons visité le marche de Caulier pour presenter notre programe.
+
+Malgré le mauvais temps, c'était une magnifique forme de chauffer la campagne !
