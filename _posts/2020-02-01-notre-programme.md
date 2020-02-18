@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Programme de Résistence Anticapitaliste"
+title:  "Programme de Résistance Anticapitaliste"
 author: 
 categories: [ programme ]
 image: assets/images/programme.jpg
