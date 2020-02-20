@@ -4,7 +4,7 @@ title:  "La Tournée Populaire - 22 février, Grand Place"
 author: 
 categories: [ evenement ]
 image: assets/images/2020-02-18-LaTourneePopulaire/image2.jpg
-featured: false
+featured: true
 hidden: false
 cardColor: green
 ---
