@@ -78,6 +78,5 @@ Les locataires des immeubles promis à la destruction doivent être relogés dan
 - Dissolution de la Police Municipale au profit de personnels de médiation pouvant accompagner les habitants vulnérables.
 - Démantèlement de la vidéosurveillance.
 - Soutien aux victimes de violences policières, de contrôles aux faciès, en particulier dans les quartiers populaires. 
-- Soutien à la lutte des proches de Selom et Matisse pour obtenir la la vérité et la justice.
 - Fermeture du bar La Citadelle.
 
