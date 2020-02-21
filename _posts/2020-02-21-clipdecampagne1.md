@@ -6,7 +6,7 @@ categories: [ evenement, clip, mobilisation, retraites  ]
 image: assets/images/2020-02-21-clipdecampagne1/image1.png
 video: "https://www.youtube.com/embed/b9NZWVERms4"
 featured: true
-hidden: true
+hidden: false
 ---
 
 Un projet anticapitaliste aux municipales de Lille : 
