@@ -60,7 +60,8 @@ Interdiction du cumul des mandats.
 - Réhabilitation des logements existants pour faire baisser les charges pour les locataires et soulager l’environnement (privilégier le chauffage et l’isolation en refusant la pression du « tout-électrique »).
 Les locataires des immeubles promis à la destruction doivent être relogés dans le même quartier, s’ils le souhaitent, avec des loyers et des conditions de logements au moins équivalents.
 - Les habitant.e.s doivent être consulté.e.s par referendum sur les projets de transformation des quartiers (destruction/reconstruction d’immeubles, nouveaux équipements).
-- Protection de l’environnement et biodiversité
+
+## Protection de l’environnement et biodiversité
 - Aller vers une agriculture 100% paysanne et biologique et sans pesticides, encourager le circuit court.
 - Verdissement de la ville : arbres, buissons, haies, plantes grimpantes, fleurs, pour lutter contre la pollution de l’air, pour le refroidissement de la ville en été, pour le développement de la faune et de la flore.
 - Arrêt des grands projets métropolitains et de gentrification qui sacrifient les habitants (souvent appartenant aux classes populaires).
