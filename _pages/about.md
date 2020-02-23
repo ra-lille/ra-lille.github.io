@@ -20,6 +20,7 @@ comments: false
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80">
 	<h5>Suivez-nous</h5>
+	<img src="/assets/images/fb-small.jpg">&nbsp;<a href="http://fb.me/resistanceanticapitaliste" target="_blank">Résistance Anticapitaliste</a><br/>
 	<img src="/assets/images/tw-small.jpg">&nbsp;<a href="http://twitter.com/@NPALille" target="_blank">@NPALille</a><br/>
 	<img src="/assets/images/fb-small.jpg">&nbsp;<a href="http://fb.me/npalille" target="_blank">NPA Lille</a><br/>
 	<img src="/assets/images/tw-small.jpg">&nbsp;<a href="http://twitter.com/@Resistancepop59" target="_blank">@Resistancepop59</a><br/>
