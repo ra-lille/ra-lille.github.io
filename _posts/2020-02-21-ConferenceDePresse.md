@@ -6,7 +6,7 @@ categories: [ clip, video  ]
 image: assets/images/2020-02-21-ConferenceDePresse/image1.png
 video: "https://www.youtube.com/embed/oc2wd_Rn4r4"
 featured: false
-hidden: false
+hidden: true
 ---
 
 21/02⁩ Resistance Anticapitaliste a présenté son projet en conférence de presse à la Boulangerie café : une perspective anti-capitaliste  régit des engagements concrets en matière de démocratie, écologie, logement et sécurité. Les journalistes étaient au rendez-vous : merci à La Voix du Nord, France 3, BFMTV et Radio France pour les riches échanges !
