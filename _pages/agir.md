@@ -9,6 +9,8 @@ comments: false
 <div class="col-md-8 pr-5">
 	<h1>Documents a distribuer</h1>
 	<ul>
+	<li><a href="/assets/files/profession-de-foi.pdf" target="_blank">Profession de foi</a></li>
+	<li><a href="/assets/files/affiche.pdf" target="_blank">Affiche de campagne</a></li>
 	<li><a href="/assets/files/ProgrammeRA.pdf" target="_blank">Notre Programme</a></li>
 	</ul>
 	<h1>Tracts de campagne</h1>
