@@ -5,7 +5,7 @@ author:
 categories: [ clip, mobilisation, retraites, greve  ]
 image: assets/images/2020-02-20-InterviewMobilisationLille/image2.jpg
 video: "https://www.youtube.com/embed/4HWe7Rc5DE4"
-featured: true
+featured: false
 hidden: false
 ---
 
