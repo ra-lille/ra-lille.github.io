@@ -2,7 +2,7 @@
 layout: post
 title:  "Olivier Besancenot soutient Résistance Anticapitaliste"
 author: 
-categories: [ '49.3' ]
+categories: [ clip video ]
 image: assets/images/posts/2020-03-06-besancenotsoutien.png
 video: https://www.youtube.com/embed/TwjHPkfYMM8
 featured: true
