@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Résistance Anticapitaliste : la colère de la rue dans les institutions de la République."
+title: "Résistance Anticapitaliste : La colère de la rue pour faire trembler les institutions de la République."
 author: 
 categories: [ evenement, clip, mobilisation, retraites  ]
 image: assets/images/2020-02-21-clipdecampagne1/image1.png
